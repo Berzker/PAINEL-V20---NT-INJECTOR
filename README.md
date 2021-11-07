@@ -11,6 +11,12 @@ __Comando para instalar new__
 
 ```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V20/main/install_new; chmod 777 install_new && ./install_new```
 
+<!-- Abre uma nova janela -->
+<a href="https://github.com/NT-GIT-HUB/VPS-MANAGER-1.0" target="_blank">
+  Compativel com VPS Manager
+</a>
+
+
 -------------------------------------------------------------------------------
 __SINCRONIZAR PAINEL WEB__
 
