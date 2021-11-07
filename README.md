@@ -2,6 +2,10 @@
 
 __Recomendado__
 - Ubuntu 14
+<a href="https://github.com/NT-GIT-HUB/VPS-MANAGER-1.0" target="_blank">
+  Compativel com VPS Manager
+</a>
+
 
 __Comando para instalar__
 
@@ -10,12 +14,6 @@ __Comando para instalar__
 __Comando para instalar new__
 
 ```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V20/main/install_new; chmod 777 install_new && ./install_new```
-
-<!-- Abre uma nova janela -->
-<a href="https://github.com/NT-GIT-HUB/VPS-MANAGER-1.0" target="_blank">
-  Compativel com VPS Manager
-</a>
-
 
 -------------------------------------------------------------------------------
 __SINCRONIZAR PAINEL WEB__
@@ -36,8 +34,4 @@ __INSTALAÇÃO BACKUP-PAINEL-V20 (Script de restauração da base de dados do pa
 __OBS: A SENHA ADMIN SERA A MESMA SENHA DO PAINEL ANTERIOR !__
 
 -------------------------------------------------------------------------------
-
-#
-#
-#
 ![logo](https://github.com/NT-GIT-HUB/PAINEL-V20/blob/main/home.png)
