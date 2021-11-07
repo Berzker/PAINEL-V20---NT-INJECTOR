@@ -5,8 +5,7 @@ __Recomendado__
 <a href="https://github.com/NT-GIT-HUB/VPS-MANAGER-1.0" target="_blank">
   Compativel com VPS Manager
 </a>
-
-
+<br>
 __Comando para instalar__
 
 ```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/PAINEL-V20/main/install; chmod 777 install && ./install```
