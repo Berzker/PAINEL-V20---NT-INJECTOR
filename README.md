@@ -1,7 +1,8 @@
 ﻿__Painel-v20__
 
 __Recomendado__
-- Ubuntu 14<br><a href="https://github.com/NT-GIT-HUB/VPS-MANAGER-1.0" target="_blank">
+- Ubuntu 14
+<a href="https://github.com/NT-GIT-HUB/VPS-MANAGER-1.0" target="_blank">
   Compativel com VPS Manager
 </a>
 
